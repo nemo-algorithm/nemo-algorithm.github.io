@@ -5,6 +5,7 @@ body {
 
 a {
     color: inherit;
+    text-decoration: None;
 }
 a:hover{
     color: rgb(0,116,251);
